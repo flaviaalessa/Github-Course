@@ -6,4 +6,5 @@ Curso do git desenvolvido para profissionais que pretendem trabalhar com backend
 * uso do comando git restore
 * comando git push - git remote / git push (resultado do remote, normalmente é origin) main 
 * Então o arquivo vai ser atualizado remotamente
-* Para salvar as alterações que foram feitas no arquivo remotamente em sua maquina local deve usar o comando git pull
+* Para salvar as alterações que foram feitas no arquivo remotamente em sua maquina local deve usar o comando git pull, esse comando vai "puxar" o código remoto e juntar com o código que estava em sua maquina
+* comando fentch
